@@ -38,7 +38,11 @@ public class Main {
         pc2.adaugaProcesor(pc1);
         pc2.adaugaProcesor(c3);
 
-        System.out.println("Modifications");
+<<<<<<< HEAD
+        System.out.println("Some modification");
+=======
+        System.out.println("Some modification");
+>>>>>>> myBranch
         System.out.println(pc2.proceseaza(documente));
     }
 }
